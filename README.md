@@ -63,7 +63,7 @@ Questionnaire | Home Page | Results (Pie Chart)                              | R
 
 This was a two-person project, with the application and machine-learning components developed separately and integrated together.
 
-### Imran — UI / Frontend
+### Imran (SSimplistic on GitHub) — UI / Frontend
 
 I was primarily responsible for the **user interface and Flutter application**.
 
@@ -80,9 +80,9 @@ My work included:
 
 The Flutter project uses `flutter_svg`, `google_fonts`, and `fl_chart` alongside Flutter's built-in UI framework.
 
-### Kwabena — Machine Learning / Backend
+### Kwabena (Kwabena-A on GitHub) — Machine Learning / Backend
 
-Kwabena was primarily responsible for the **machine-learning model and prediction API**.
+Kwabena  was primarily responsible for the **machine-learning model and prediction API**.
 
 His work included:
 
